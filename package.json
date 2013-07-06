@@ -1,0 +1,27 @@
+{
+  "name": "every-time",
+  "version": "0.0.0",
+  "description": "Declarative setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "english-time": "*"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "time",
+    "interval",
+    "setInterval",
+    "declarative"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/every-time.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
